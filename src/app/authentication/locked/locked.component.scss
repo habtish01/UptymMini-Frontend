@@ -1,0 +1,17 @@
+.image img {
+  width: 112px;
+  height: 112px;
+  object-fit: contain;
+  background: aliceblue;
+}
+#bg {
+ 
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+    position: relative;
+  }

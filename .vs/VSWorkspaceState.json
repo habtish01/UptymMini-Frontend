@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\+metadata",
+    "\\src\\app\\+metadata\\maintenance-check-list",
+    "\\src\\app\\+metadata\\maintenance-check-list\\maintenance-check-lists"
+  ],
+  "SelectedNode": "\\src\\app\\+metadata\\maintenance-check-list\\maintenance-check-lists\\maintenance-check-lists.component.ts",
+  "PreviewInSolutionExplorer": false
+}
